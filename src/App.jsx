@@ -7,6 +7,7 @@ function App() {
   return (
     <>
         <NavBar />
+        <h1>Price Option BD </h1>
     </>
   )
 }
